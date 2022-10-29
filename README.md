@@ -1,7 +1,7 @@
 # rata
 Exploratory Data Analysis 
 
-Data Set: FIFA World Cup 2022 
+Data Set: FIFA World Cup 2022 --> link: https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022
 
 Conclusiones:
 El equipo que más goles metió fue un local, superando por 10 goles al que más goles marcó de visitante. Esto nos da pie a la siguiente conclusión:
